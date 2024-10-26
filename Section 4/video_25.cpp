@@ -11,7 +11,7 @@ Description:
 
 Usage:
     Compile the program in a Linux Command Line:
-    $ g++ -Wall -std=c++17 video_25.cpp -o video_26
+    $ g++ -Wall -std=c++17 video_25.cpp -o video_25
     $ ./video_25
 
 Requirements:
